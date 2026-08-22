@@ -219,3 +219,6 @@ gradio_outputs/
 gradio_outputs_voicedesign/
 outputs/
 data/
+
+# ローカルにダウンロードしたモデルチェックポイント(数GB、git管理対象外)
+local_ckpt/
